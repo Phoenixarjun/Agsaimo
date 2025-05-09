@@ -780,18 +780,18 @@ footer{
 }
 
 
-.dinesh{
+.naresh{
     display: flex;
     align-items: center; 
     justify-content: center;
     gap: 10px;
 }
 
-.dinesh a:hover{
+.naresh a:hover{
     color: #0008C1;
 }
 
-.dinesh p{
+.naresh p{
     font-size: larger;
     margin-top: 20px;
 }
